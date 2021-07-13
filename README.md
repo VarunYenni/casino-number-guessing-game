@@ -3,4 +3,6 @@ This is a normal casino number guessing game , where we have to enter some amoun
 
 
 # sample output
+![sample casino](https://user-images.githubusercontent.com/87163784/125416693-6c7adef5-9f2e-41e5-ba17-5dcad40a7f7f.png)
+# result
 ![casino output](https://user-images.githubusercontent.com/87163784/125415974-80962742-83e4-49be-aae5-dc0eb0b3e0ad.png)
